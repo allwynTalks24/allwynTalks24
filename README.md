@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: rukhrom@gmail.com
-🌱 I’m currently learning Java,C#
+📫 How to reach me: rukhrom@gmail.com <br>
+🌱 I’m currently learning Java,C# <br>
 💬 Human Languages: English (Fluent), Hindi(Spoken)
