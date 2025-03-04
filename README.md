@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: [email](mailto:rukhrom@gmail.com) <br>
+📫 How to reach me: [email](mailto:rukhrom@gmail.com)  +91-9702761297 <br>
 🌱 I’m currently learning: Java, C# <br>
 💬 Human Languages: English (Fluent), Hindi(Spoken)
