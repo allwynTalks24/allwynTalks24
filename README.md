@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 
 📫 How to reach me: [email](mailto:rukhrom@gmail.com),<a href="https://in.linkedin.com/in/allwyn-dsouza-02183a22b" style="text-decoration:none; font-weight:bold;" target="_blank">LinkedIn</a>
 <br>
-📱 +91-9702761297 <br>
-https://icons8.com/icon/xuvGCOXi8Wyg/linkedin
 </> I’m currently learning: C#, ReactJS, Java<br>
 🌐 Human Languages: English (Fluent), Hindi(Spoken)
